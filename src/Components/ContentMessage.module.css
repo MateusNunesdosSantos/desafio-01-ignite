@@ -1,0 +1,39 @@
+.divider {
+    max-width: 46rem;
+    border-top: 2px solid #333333;
+    border-radius: 8px;
+}
+
+
+.contentListTodo {
+    width: 46rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contentMessage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 5rem 3rem;
+
+}
+
+.contentMessage img {
+    width: 56px;
+    height: 56px;
+    margin-bottom: 0.8rem;
+
+}
+
+.contentMessage b {
+    color: var(--gray-300);
+    line-height: 1.5rem;
+}
+
+.contentMessage p {
+    color: var(--gray-300);
+    line-height: 1.5rem;
+}
