@@ -11,7 +11,7 @@
     background: var(--gray-500);
     border: none;
     padding: 1rem;
-    border-radius: 8px;
+    border-radius: 0.5rem;
     width: 638px;
     color: var(--gray-100);
     font-size: 1rem;
@@ -25,7 +25,7 @@
     font-size: 0.875rem;
     background: var(--blue-dark);
     color: var(--gray-100);
-    border-radius: 8px;
+    border-radius: 0.5rem;
     padding: 1rem;
     cursor: pointer;
     transition: background 0.2s;
